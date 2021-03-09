@@ -1,15 +1,15 @@
-<h1 align=center>Hello, everyone! Renan Duarte here! 👦</h1>
-<p align=center><strong>"..Through web development, I unite my two passions: Design and Technology..."</strong> - Duarte, Renan</p>
+<h1 align=center>Renan Duarte!👦</h1>
+<p align=center><strong>"..Through web development, I unite my two passions: Design and Technology..."</strong></p>
 
-### ✨ About me
+### About me
 * 👀 I'm currently hunting for my first job to start my career in web development area.
 * 🌱 I'm currently learning Javascript
 * 🤔 I'm looking for help with find a job in web development (Front-end).
 * 💬 Ask me about Photoshop, CSS, Design and everything you felling should!
 * ⚡ Fun fact: I love play games, but still don't know how to development they 👾.
 * 📫 How to reach me: <strong><a href="mailto:duarterenan@hotmail.com">duarterenan@hotmail.com</a></strong>
-### 📌 Some of my objectives:
-* ✔️ Helping people and small traders through technology, whether developing websites, web applications or passing on knowledges
+### Some of my objectives:
+* ✔️ Help people and small traders through technology, whether developing websites, web applications or passing on knowledges
 * ✔️ Always have fun!
 
 ###  My visual portfolio (variaded):
