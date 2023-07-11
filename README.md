@@ -2,7 +2,6 @@
 <p align=center><strong>"..Through web development, I unite my two passions: Design and Technology..."</strong></p>
 
 ### About me
-* 👀 I'm currently hunting for my first job to start my career in web development area.
 * 🌱 I'm currently learning Javascript
 * 🤔 I'm looking for help with find a job in web development (Front-end).
 * 💬 Ask me about Photoshop, CSS, Design and everything you felling should!
@@ -13,11 +12,11 @@
 * ✔️ Always have fun!
 
 ###  My visual portfolio (variaded):
-<a href="https://www.behance.net/renanduarts"> <img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051387.svg?token=exp=1615277905~hmac=d43b93cce5713937193b35ca95cbe355" width="40" height="40" style="max-width:100%;" alt="behance"> </a>
+<a href="https://www.behance.net/renanduarts"> <img src="https://cdn.cdnlogo.com/logos/b/64/behance.svg" width="40" height="40" style="max-width:100%;" alt="behance"> </a>
 
 ## Connect with me:
-<a href="https://www.facebook.com/DuartRenan"> <img src="https://www.flaticon.com/svg/vstatic/svg/174/174848.svg?token=exp=1615277889~hmac=834c1ff1a83d0e87eb09b8f5d14fc91e" width="40" height="40" style="max-width:100%;" alt="facebook"> </a>
-<a href="https://www.linkedin.com/in/renan-duarte-166402141/"> <img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615277695~hmac=fa88df1492ed8efbad81e0f6272e22c4" width="40" height="40" style="max-width:100%;" alt="linkedin"> </a>
+<a href="https://www.instagram.com/renanduarts"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="40" height="40" style="max-width:100%;" alt="Instagram"> </a>
+<a href="https://www.linkedin.com/in/renan-duarte-166402141/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="40" height="40" style="max-width:100%;" alt="linkedin"> </a>
    
 ### Languages and Tools:
    <a href="https://www.photoshop.com/en" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="max-width:100%;"> </a>
