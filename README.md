@@ -1,21 +1,69 @@
-<h1 align=center>Renan Duarte!👦</h1>
-<p align=center><strong>"..Through web development, I unite my two passions: Design and Technology..."</strong></p>
+<h1 align="center">Hi, I'm Renan Duarte 👋</h1>
+<p align="center"><strong>Through web development, I unite my two passions: design and technology.</strong></p>
 
-### About me
-* 🌱 I'm currently learning Javascript
-* 🤔 I Currently work with Emails Marketing Developing, since 2021.
-* 💬 Ask me about HTML, CSS, E-mail Marketing everything you felling should!
-* ⚡ Fun fact: I love play games, but still don't know how to development they 👾.
-* 📫 How to reach me: <strong><a href="mailto:duarterenan@hotmail.com">duarterenan@hotmail.com</a></strong>
-### Some of my objectives:
-* ✔️ Help people and small traders through technology, whether developing websites, web applications or passing on knowledges
-* ✔️ Always have fun!
+---
 
-## Connect with me:
-<a href="https://www.instagram.com/renanduarts"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="40" height="40" style="max-width:100%;" alt="Instagram"> </a>
-<a href="https://www.linkedin.com/in/renan-duarte-166402141/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="40" height="40" style="max-width:100%;" alt="linkedin"> </a>
-   
-### Languages and Tools:
-   <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width:100%;"> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"> </a>
-   <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width:100%;"> </a>
+## About me
+- 🔭 Currently building reusable landing pages and responsive email templates.
+- 🌱 Learning and deepening JavaScript (ES6+, asynchronous patterns) and TypeScript.
+- 💼 Email Marketing Developer at **Marketdata** (since 2021) — focus on HTML email development and cross-client compatibility.
+- ⚙️ Working toward full-stack skills: Node.js, Express, and simple databases to power dynamic forms and small apps.
+- 🎮 Outside of code: jiu-jitsu purple belt and a gamer at heart.
+
+---
+
+## Quick facts
+- 📍 Based in Brazil (GMT-3)
+- 🔁 Seeking: freelance clients & remote Front-end positions (open to junior/mid roles)  
+- 📫 Contact: [duarterenan@hotmail.com](mailto:duarterenan@hotmail.com)  
+- 🌐 Portfolio: https://renanduartedev.com.br
+
+---
+
+## Skills & Tools
+- **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), responsive & mobile-first design  
+- **Email:** Responsive email templates, cross-client compatibility, Litmus/Email testing workflows  
+- **Backend (basic):** Node.js, Express, PHP (hosting & forms), simple DB usage (MySQL/Postgres)  
+- **Deployment & Tools:** Vercel, Hostinger, Git, GitHub, GitHub Pages, basic CI/CD  
+- **Other:** Accessibility basics, SEO fundamentals, Figma (collaboration with designers)
+
+---
+
+## Featured projects
+
+### 1) **Law Office Landing + Email Kit**  
+**Demo:** `https://duarterenan.github.io/lawyer-lp` • **Repo:** `https://github.com/DuarteRenan/lawyer-lp`  
+Short: A mobile-first landing page template for law offices, bundled with 3 responsive email templates. Built with Tailwind CSS, includes contact form and simple Node handler. Optimized for fast load and lead capture.
+
+### 2) **Teacher Campaign — Professor Inspirador 2025**  
+**Demo:** `https://professorinspirador2025.com.br`  
+Short: Landing page for a teaching campaign, focused on accessibility and performance. Implemented animations, AOS integrations, and CMS-friendly structure.
+
+### 3) **Minimal Portfolio / Linktree**  
+**Demo:** `https://renanduartedev.com.br` • **Repo:** `https://github.com/DuarteRenan/social-links`  
+Short: Personal link-aggregator and portfolio. Clean, minimal, mobile-first — shows projects, contact and social links.
+
+---
+
+## What I bring to a team
+- Reliable frontend implementation with attention to email quirks and client compatibility.  
+- Ability to turn static designs into production-ready pages and fast prototypes.  
+- Willingness to learn backend fundamentals to ship full features (forms, uploads, simple APIs).
+
+---
+
+## How I like to work
+- Small, iterative releases — demo first, refactor later.  
+- Clear acceptance criteria and mockups.  
+- Reusable components and documentation for handoffs to designers or other devs.
+
+---
+
+## Let's connect
+- LinkedIn: https://www.linkedin.com/in/renan-duarte-166402141/  
+- Instagram: https://www.instagram.com/renanduarts  
+- Email: duarterenan@hotmail.com
+
+---
+
+<p align="center">If you're hiring or want a custom landing/email kit — let's chat 🚀</p>
