@@ -60,7 +60,7 @@ Short: Personal link-aggregator and portfolio. Clean, minimal, mobile-first — 
 ---
 
 ## Let's connect
-- LinkedIn: https://www.linkedin.com/in/renan-duarte-166402141/  
+- LinkedIn: https://www.linkedin.com/in/renanduarte-front-end-developer/
 - Instagram: https://www.instagram.com/renanduarts  
 - Email: duarterenan@hotmail.com
 
